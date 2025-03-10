@@ -19,7 +19,7 @@ This repository hosts a pre-publication review paper on the **Planck-Scale Visco
 ## **Call for Review & Collaboration**  
 This work is currently in the **pre-publication review stage**, and I welcome constructive feedback, theoretical critiques, and ideas for experimental tests. If you're working in **quantum gravity, cosmology, hydrodynamical analogies, or related fields**, your input would be invaluable!  
 
-📢 **Join the Discussion on Reddit:** [r/HypotheticalPhysics Post](INSERT_LINK_HERE)  
+📢 **Join the Discussion on Reddit:** [r/HypotheticalPhysics Post](https://www.reddit.com/r/HypotheticalPhysics/comments/1j7wq9y/here_is_a_hypothesis_spacetime_exhibits_an/)  
 
 ## **How to Contribute**  
 🔹 **Feedback & Discussion:** Open an [Issue](https://github.com/YOUR_GITHUB/PlanckViscosityHypothesis/issues) with your comments, counterarguments, or references.  
