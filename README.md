@@ -14,7 +14,7 @@ This repository hosts a pre-publication review paper on the **Planck-Scale Visco
 🔹 **Experimental Tests:** How might we detect viscosity-induced effects in gravitational wave observations (LIGO/Virgo), quantum optics, or cosmological surveys?  
 
 ## **Read the Paper**  
-📄 [Download the Full Paper (PDF)]([INSERT_LINK_HERE](https://github.com/jdlongmire/PlanckViscosityHypothesis/blob/main/Viscosity_Hypothesis_Review.pdf)  
+📄 [Download the Full Paper (PDF)](https://github.com/jdlongmire/PlanckViscosityHypothesis/blob/main/Viscosity_Hypothesis_Review.pdf)  
 
 ## **Call for Review & Collaboration**  
 This work is currently in the **pre-publication review stage**, and I welcome constructive feedback, theoretical critiques, and ideas for experimental tests. If you're working in **quantum gravity, cosmology, hydrodynamical analogies, or related fields**, your input would be invaluable!  
