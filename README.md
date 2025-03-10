@@ -22,7 +22,7 @@ This work is currently in the **pre-publication review stage**, and I welcome co
 📢 **Join the Discussion on Reddit:** [r/HypotheticalPhysics Post](https://www.reddit.com/r/HypotheticalPhysics/comments/1j7wq9y/here_is_a_hypothesis_spacetime_exhibits_an/)  
 
 ## **How to Contribute**  
-🔹 **Feedback & Discussion:** Open an [Issue](https://github.com/YOUR_GITHUB/PlanckViscosityHypothesis/issues) with your comments, counterarguments, or references.  
+🔹 **Feedback & Discussion:** Open an [Issue](https://github.com/jdlongmire/PlanckViscosityHypothesis/issues) with your comments, counterarguments, or references.  
 🔹 **Theoretical Work:** If you have ideas for extending the hypothesis mathematically, feel free to submit a [Pull Request](https://github.com/YOUR_GITHUB/PlanckViscosityHypothesis/pulls).  
 🔹 **Experimental Proposals:** If you have thoughts on how to test Planck-scale viscosity, let’s collaborate!  
 
