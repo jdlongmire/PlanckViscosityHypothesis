@@ -4,7 +4,6 @@ Thank you for your interest in contributing! This work is in **pre-publication r
 
 ## 📝 How to Provide Feedback  
 - Open a [GitHub Issue](https://github.com/YOUR_GITHUB/PlanckViscosityHypothesis/issues) to share **comments, critiques, or questions**.  
-- Join the discussion on [r/HypotheticalPhysics](https://www.reddit.com/r/HypotheticalPhysics/comments/1j7wq9y/here_is_a_hypothesis_spacetime_exhibits_an/).  
 
 ## 📜 Contribution Rules  
 🔹 By contributing (submitting pull requests, issues, or comments), you agree that your contributions will be licensed under the **CC BY-NC 4.0** license.  
