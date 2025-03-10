@@ -38,7 +38,7 @@ This work is currently in the **pre-publication review stage**, and I welcome co
 
 If you use this work, please cite:  
 
-> [Your Name]. (2025). *Towards Planck-Scale Viscosity: Revisiting Fluid-Theoretic Models of Spacetime* (Version 1.0).  
+> James D. (JD) Longmire. (2025). *Towards Planck-Scale Viscosity: Revisiting Fluid-Theoretic Models of Spacetime* (Version 1.0).  
 > Zenodo. [https://doi.org/10.5281/zenodo.14999273](https://doi.org/10.5281/zenodo.14999273).  
 
 📄 The paper is permanently archived on Zenodo:  
